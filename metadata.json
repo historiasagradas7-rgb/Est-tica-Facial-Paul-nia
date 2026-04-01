@@ -1,0 +1,7 @@
+{
+  "name": "Estética Facial Paulínia",
+  "description": "Landing page sofisticada para clínica de estética facial e harmonização em Paulínia.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
